@@ -1,0 +1,36 @@
+The Universal Repeater Plugin - Creating and managing dynamic, repeatable custom fields in an intuitive, scalable way.
+What Does It Do?
+
+The Universal Repeater Plugin allows users to dynamically create groups, fields, and subfields, linking them to specific WordPress post types. Whether you need flexible field structures for blog posts, custom post types, or pages, this plugin offers unparalleled versatility. All data is securely stored in custom database tables, ensuring scalability and performance.
+Key Features
+
+    Dynamic Group and Field Management
+        Create custom groups that can contain multiple fields and nested subfields.
+        Associate each group with a specific WordPress post type to control where it appears.
+
+    Flexible and Scalable Architecture
+        Data is stored in dedicated database tables with relationships between groups, fields, and subfields.
+        Supports complex field hierarchies, enabling you to build advanced data structures.
+
+    Easy-to-Use Admin Interface
+        Built with Bootstrap for a clean, user-friendly UI.
+        Intuitive controls for adding and managing groups, fields, and subfields dynamically.
+
+    Custom Post Type Integration
+        Attach field groups to any post type, ensuring seamless integration with existing WordPress workflows.
+        Automatically render custom meta boxes for editing field data on the post edit screen.
+
+    Robust Validation and Security
+        Ensures all input is sanitized and validated before being saved, following WordPress best practices.
+        Uses nonces and role-based permissions to secure admin operations.
+
+    Developer-Friendly
+        Clean, modular codebase makes it easy to extend or customize.
+        Perfect for developers who want a reusable solution for projects requiring advanced custom fields.
+
+How Does It Work?
+
+    The plugin provides an intuitive admin interface for defining groups of fields.
+    Each group can be linked to a specific post type, ensuring that fields only appear where needed.
+    When editing a post, administrators will see the custom fields associated with the selected group, allowing them to input and save structured data effortlessly.
+    Data is stored in custom database tables with robust relational logic, ensuring both performance and maintainability.
