@@ -1,0 +1,27 @@
+.wrap {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.group {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.field {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.field input {
+    margin-right: 10px;
+    width: 100%;
+}
+
+button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
